@@ -1,1 +1,1 @@
-# Simple-form-with-a-list-of-users-React-Redux
+# Simple-form-with-a-list-of-users-React
